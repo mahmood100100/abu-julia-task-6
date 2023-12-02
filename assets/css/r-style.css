@@ -1,0 +1,6 @@
+body{
+    background-image: url("../img/R.jpeg");
+}
+.navbar .navbar-nav .nav-link:focus{
+    font-weight: bold !important;
+}
